@@ -1,5 +1,6 @@
 ublic class Main {
   //Usando un if, crear una condición que compare si la variable numeroIf es positivo, negativo, o 0.
+
   public static void main (String[] args){
     int numero = 0;
     
